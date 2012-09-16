@@ -1,4 +1,4 @@
-#string search to get url
+#string search to get new url
 
 def get_next_target (s):
 	start_link = s.find('<a href=');
